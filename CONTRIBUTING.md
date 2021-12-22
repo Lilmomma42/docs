@@ -1,3 +1,4 @@
+[SAMSUNG_business_conduct_guidelines_2016.pdf](https://github.com/github/docs/files/7765325/SAMSUNG_business_conduct_guidelines_2016.pdf)
 # Welcome to GitHub docs contributing guide <!-- omit in toc -->
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://docs.github.com/en) :sparkles:. 
